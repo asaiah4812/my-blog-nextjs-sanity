@@ -12,7 +12,7 @@ export default function Home() {
       </div>
       <div className="p-2 bg-slate-50 mt-5">
       <div className="py-4">
-        <h1 className=" font-semibold bg-gray-200 w-fit p-2 rounded-full text-3xl">My Blog Post</h1>
+        <h1 className=" font-semibold bg-gray-200 w-fit p-2 rounded-full text-3xl">Post List</h1>
       </div>
       <div className="mt-5 grid md:grid-cols-3 gap-5 lg:grid-cols-4">
         <ProjectCard />
